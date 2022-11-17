@@ -62,9 +62,7 @@ vector<int> trace_path(vector<int>& trace, int S, int u) {
     return path;
 }
 
-//CÁC TRƯỜNG HỢP CÓ CHU TRÌNH ÂM
 
-//// sau khi chạy xong N-1 vòng lặp Bellman-Ford 
 
 
 //TÌM CHU TRÌNH ÂM
